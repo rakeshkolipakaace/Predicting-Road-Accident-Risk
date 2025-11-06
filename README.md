@@ -4,7 +4,7 @@
     
 ![Kaggle](https://img.shields.io/badge/Kaggle-Playground%20S5E10-20BEFF?style=for-the-badge&logo=kaggle)  
 ![Rank](https://img.shields.io/badge/RANK-960%2F4082-FF6B6B?style=for-the-badge)     
-![Score](https://img.shields.io/badge/Best%20Score-0.05557-00D9FF?style=for-the-badge)
+![Score](https://img.shields.io/badge/Best%20Score-0.05557-00D9FF?style=for-the-badge) 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python)
 
 ### ⚡ **TOP 23.5% - CLIMBING THE RANKS!** ⚡ 
@@ -12,14 +12,14 @@
 > *"Second competition, sharper skills, BETTER RESULTS!"*
 
 **29 Submissions | Advanced Stacking | Feature Engineering Mastery**
- 
+  
 </div>
 
 ---
-
+ 
 ## 🎯 **THE ROAD TO GRANDMASTER**
 
-### **Our Kaggle Journey Map**
+### **Our Kaggle Journey Map** 
 
 ```
 📊 CURRENT STATUS: BUILDING FOUNDATIONS
@@ -28,7 +28,7 @@
 🎖️  Novice        ✅ COMPLETED
 🥉  Contributor   ✅ COMPLETED  
 🥈  Expert        🎯 IN PROGRESS
-🥇  Master        🔒 LOCKED (Coming Soon)
+🥇  Master        🔒 LOCKED (Coming Soon) 
 👑  Grandmaster   🔒 LOCKED (Ultimate Goal)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -43,7 +43,7 @@
 ### **Path to Grandmaster:**
 - 🥇 Multiple Gold Medals Required
 - 🥈 Consistent Top 10% Finishes
-- 👑 Solo & Team Competition Mastery
+- 👑 Solo & Team Competition Mastery 
 - 💪 Years of Dedication & Learning
 
 **Current Mission:** Achieve Expert Status  
